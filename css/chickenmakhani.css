@@ -1,8 +1,28 @@
-.Heading{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+
+.Heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 36px;
     background-color: aliceblue;
     text-align: center;
     padding: 10px;
     margin: 50px;
+}
+
+.Description {
+    margin-left: 100px;
+    margin-right: 200px;   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 20px;
+    
+}
+
+#background{
+    background-color: salmon;
+    margin: 200px;
+}
+
+#image{
+    text-align: center;
+    
 }
